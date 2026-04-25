@@ -43,7 +43,7 @@ When copying the exercise, we recommend the following settings:
 If the exercise isn't ready in 20 seconds:
 
 1. Wait a bit longer, then refresh the page.
-2. Follow the step-by-step instructions in the issue created in your repository.
+2. Follow the instructions in the issue created in your repository
 3. If the page doesn't refresh automatically, please check the [Actions](../../actions) tab.
    - Check to see if a job is running. Sometimes it simply takes a bit longer.
    - If the page shows a failed job, please submit an issue. Nice, you found a bug! 🐛
